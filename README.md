@@ -9,6 +9,10 @@ A command-line tool which simplifies the task of updating your Flutter app's lau
 
 ## :sparkles: What's New
 
+#### Version 0.9.1 (30th Jul 2021)
+
+- Upgrade the "args" (dependency) from version 2.0.0 to 2.1.1
+
 #### Version 0.9.0 (28th Feb 2021)
 
 - Null-safety support added (thanks to @SteveAlexander)
